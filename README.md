@@ -30,7 +30,7 @@ I am interested in utilizing computational techniques and research methodologies
 ---
 
 ## 📊 **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyrellosSaleeb&layout=compact&theme=radical)
 
 ## 🏆 **GitHub Profile Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KyrellosSaleeb&theme=darkhub&row=1&column=7)
