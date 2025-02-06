@@ -12,6 +12,7 @@ I am passionate about leveraging computational techniques and innovative researc
 - 📊 **Data Science**
 - 👀 **Computer Vision**
 - 📚 **Natural Language Processing (NLP)**
+- 📜 **Web Scraping**
 
 ### 🧬 **Life Sciences & Computational Biology:**
 - 🧬 **Bioinformatics**
