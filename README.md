@@ -33,6 +33,7 @@ I am passionate about leveraging computational techniques and innovative researc
 ## 📊 **Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyrellosSaleeb&layout=compact&theme=radical)
 
-## 🏆 **GitHub Profile Trophies:**
+## 🏆 GitHub Profile Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KyrellosSaleeb&theme=flat&row=1&column=7)
+
 
