@@ -5,7 +5,6 @@ I thrive in environments that foster continuous learning, professional developme
 
 ---
 ## 🔍 About Me
-- 🔍 About Me
 - ⚙️ Data Engineering & Cloud Expertise
 - 🧩 ETL/ELT Development – SSIS, ADF, PySpark
 - 🏗️ Data Warehousing – SQL Server, Azure Synapse, Redshift
